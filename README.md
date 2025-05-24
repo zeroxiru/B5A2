@@ -1,7 +1,5 @@
-<<<<<<< HEAD>>>>>>>>>>>>>
-# B5A2
-Postgres SQL assignment task update 
-=======
+                                                                                        <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< HEAD>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 ## PostgreSQL-এ COUNT(), SUM(), এবং AVG() এর মতো অ্যাগ্রিগেট ফাংশনগুলি কীভাবে গণনা করবেন ?
 
 এখানে PostgreSQL-এ COUNT(), SUM(), এবং AVG() এর মতো অ্যাগ্রিগেট ফাংশনগুলি কীভাবে গণনা করবেন তার একটি বিস্তারিত ব্যাখ্যা দেওয়া হলো:
@@ -356,4 +354,4 @@ WHERE salary > 50000;
 ## Sources
 1. https://www.cnblogs.com/yidejiyi/p/18236903
 2. https://gemini.google.com/app 
->>>>>>> d66af14 (Sql question solution and blogs ReadMe File)
+
